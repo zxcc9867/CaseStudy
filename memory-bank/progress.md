@@ -14,7 +14,7 @@
 
 #### 남은 작업
 
-- 사용자 명시적 승인 후 README 관련 파일만 커밋·푸시
+- Draft PR 검토 및 병합
 
 ### 2026-08-19 - 다국어 README 완료
 
@@ -45,8 +45,36 @@
 
 #### 남은 작업
 
-- 사용자 명시적 승인 후 문서 관련 변경만 커밋·푸시
+- Draft PR 검토 및 병합
 
 #### 다음 우선순위
 
-- 게시 승인 시 문서 전용 브랜치와 커밋 범위를 다시 확인한다.
+- Draft PR을 검토한 뒤 병합한다.
+### 2026-08-20 - 다국어 README Draft PR 게시
+
+#### 완료한 작업
+
+- 문서 전용 브랜치 `agent/multilingual-readmes`를 생성하고 원격에 푸시했다.
+- README 콘텐츠 커밋 `c965c97`을 생성했다.
+- Draft PR #1: https://github.com/zxcc9867/CaseStudy/pull/1
+- PR은 `main`을 대상으로 하며 병합 가능 상태를 확인했다.
+
+#### 변경된 파일
+
+- `memory-bank/active-context.md`
+- `memory-bank/progress.md`
+
+#### 검증 방법
+
+- 원격 브랜치 추적 상태 확인
+- Draft PR의 base/head, open/draft 상태 확인
+- PR 병합 가능 상태 확인
+- 문서 상대 링크·공백·비밀정보 패턴 검사 통과
+
+#### 남은 작업
+
+- Draft PR 검토 및 병합
+
+#### 다음 우선순위
+
+- PR의 언어별 렌더링을 최종 확인한 뒤 병합한다.

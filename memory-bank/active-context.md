@@ -19,9 +19,10 @@
 - 완료: 기존 문서와 저장소 구조 확인
 - 완료: 영어 기본 README와 한국어·일본어 README 작성
 - 완료: 언어 전환 링크, 핵심 용어, 상대 링크, diff 공백 검사
+- 완료: agent/multilingual-readmes 브랜치 푸시 및 Draft PR #1 생성 (https://github.com/zxcc9867/CaseStudy/pull/1)
 - 진행 중: 없음
 - 막힌 부분: 없음
-- 다음 작업: 사용자 명시적 승인 후 README 및 관련 memory-bank 문서만 커밋·푸시
+- 다음 작업: Draft PR 검토 후 병합 여부 결정
 
 ## 주의할 점
 
