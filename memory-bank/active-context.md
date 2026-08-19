@@ -20,9 +20,10 @@
 - 완료: 영어 기본 README와 한국어·일본어 README 작성
 - 완료: 언어 전환 링크, 핵심 용어, 상대 링크, diff 공백 검사
 - 완료: agent/multilingual-readmes 브랜치 푸시 및 Draft PR #1 생성 (https://github.com/zxcc9867/CaseStudy/pull/1)
+- 완료: Draft PR #1을 main에 squash merge (merge SHA c3f5bb694192f9cbafb7d6dadeb70112c4daa94b)
 - 진행 중: 없음
 - 막힌 부분: 없음
-- 다음 작업: Draft PR 검토 후 병합 여부 결정
+- 다음 작업: 없음. 원격 문서 브랜치 삭제는 사용자가 별도로 승인하는 경우에만 수행
 
 ## 주의할 점
 
